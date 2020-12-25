@@ -1,6 +1,6 @@
 # Internship-work
 
-The main task here was to design a security system using IP webcam. This should include following functionality-
+The main task here was to design a security system using IP webcam. This task includes following functionality-
 * Classification of face/person as known, unknown, danger.
 * Object detection(YOLO).
 * Gender and Age detection.
